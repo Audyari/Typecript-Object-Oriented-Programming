@@ -1,0 +1,4 @@
+# Abaikan direktori yang dihasilkan secara otomatis
+
+node_modules/
+dist/

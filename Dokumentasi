@@ -1,0 +1,16 @@
+
+1. https://docs.google.com/presentation/d/1mnfyjjuhcI6_cfRfKsMktXGt3V0aF9crztwz_HjnFpc/edit?usp=sharing
+
+2. https://github.com/ProgrammerZamanNow/belajar-typescript-oop
+
+3. npm install --save-dev jest @types/jest
+
+4. npm install --save-dev babel-jest @babel/preset-env
+
+5. npm run test // menjalankan unit test
+
+6. npx tsc // convert to javascript
+ 
+7. npm test tests/2. Tipe Data Primitif/Tipe Data Primitif.test.tsscript-Dasar\Typescript-Dasar>
+
+    
